@@ -1,0 +1,24 @@
+.headersection {
+  background: #1e3a8a; /* Deep Blue */
+}
+.navsection {
+  background: #2563eb; /* Medium Blue */
+}
+.samesidebar h2 {
+  background: #2563eb;
+}
+.readmore a {
+  border: 1px solid #2563eb;
+  color: #2563eb;
+}
+.readmore a:hover {
+  background: #2563eb;
+  color: #fff;
+}
+.footersection {
+  background: #1e3a8a;
+}
+.relatedpost h2 {
+  background: #2563eb !important;
+  color: #fff !important;
+}
